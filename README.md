@@ -191,8 +191,6 @@ The frontend will run on http://localhost:5173 (or another available port if 517
 - `DELETE /api/admin/tasks/:id` - Delete any task (requires admin)
 - `GET /api/admin/logs` - Get activity logs (requires admin)
 
-## License
-MIT
 
 ## Author
-Made with ❤️ by Akshay Poonia
+ Akshay Poonia
